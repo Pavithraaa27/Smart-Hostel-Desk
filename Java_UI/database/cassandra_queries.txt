@@ -1,0 +1,11 @@
+SELECT * FROM students;
+
+SELECT * FROM complaints;
+
+SELECT * FROM complaints WHERE student_id = 1;
+
+SELECT * FROM complaints WHERE student_id = 1 AND complaint_id > 1;
+
+SELECT complaint_id, tags FROM complaints;
+
+SELECT complaint_id, TTL(status) FROM complaints WHERE student_id = 1;
