@@ -101,6 +101,13 @@ WHERE student_id = 1 AND complaint_id = 1;
 ```
 
 ---
+## Screenshots 
+
+<img width="476" height="299" alt="Screenshot 2026-04-24 011725" src="https://github.com/user-attachments/assets/8337eef9-7953-4512-bd44-93347f3754a8" />
+<img width="471" height="291" alt="Screenshot 2026-04-24 011742" src="https://github.com/user-attachments/assets/a1919d52-934a-460f-ba57-d58a566e10eb" />
+<img width="603" height="487" alt="Screenshot 2026-04-24 011750" src="https://github.com/user-attachments/assets/86a227f8-fe97-4786-bb6f-42e71c501d2f" />
+<img width="594" height="354" alt="Screenshot 2026-04-24 011832" src="https://github.com/user-attachments/assets/6f8f2cc8-3cc5-438e-94e8-f93f639084c3" />
+
 
 ## 📈 Learning Outcomes
 
