@@ -53,15 +53,6 @@ This project also demonstrates hands-on implementation of **NoSQL database conce
 
 ---
 
-## 📸 Application Screens
-
-- Login Page  
-- Dashboard  
-- Add Complaint  
-- View Complaints  
-
----
-
 ## ⚙️ How to Run
 
 ### 1. Compile Java Files
@@ -101,7 +92,13 @@ WHERE student_id = 1 AND complaint_id = 1;
 ```
 
 ---
-## Screenshots 
+
+## 📸 Application Screens
+
+- Login Page  
+- Dashboard  
+- Add Complaint  
+- View Complaints  
 
 <img width="476" height="299" alt="Screenshot 2026-04-24 011725" src="https://github.com/user-attachments/assets/8337eef9-7953-4512-bd44-93347f3754a8" />
 <img width="471" height="291" alt="Screenshot 2026-04-24 011742" src="https://github.com/user-attachments/assets/a1919d52-934a-460f-ba57-d58a566e10eb" />
